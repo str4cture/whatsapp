@@ -8,7 +8,9 @@ it reads each line in the file called "lang.txt" (which can be changed) and send
 the only thing i don't really like about it is that it reopens a new browser when it sends a new message
 but im too lazy to fix it currently, maybe ill do it in the future. 
 
-here's a bat
+the [song](https://www.youtube.com/watch?v=fCyDqPzeECE) i listened to while i made this
+
+and here's a bat
 
                       _..-'(                       )`-.._
                    ./'. '||\\.       (\_/)       .//||` .`\.
